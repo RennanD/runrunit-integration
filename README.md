@@ -1,6 +1,7 @@
 # Integração do Runrun It com o github
 
-- [] Ligar um quadro do runrun it a um repo do github
+- [x] Ligar um quadro do runrun it a um repo do github
+- [x] Criar quadro no runrunit a cada branch nova criada
 - [] Ligar commits a uma tarefa no runrun it
 
 # Avançado 
